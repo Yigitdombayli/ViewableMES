@@ -1,0 +1,13 @@
+# Kodları gizle
+Entities/
+MainApp/
+Repositories/
+Services/
+Viewable/
+Viewable.sln
+Dockerfile
+docker-compose.yml
+
+# Derleme çıktılarını gizle
+bin/
+obj/
