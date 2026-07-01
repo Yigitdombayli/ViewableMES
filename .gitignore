@@ -1,4 +1,3 @@
-# Kodları gizle
 Entities/
 MainApp/
 Repositories/
@@ -8,6 +7,5 @@ Viewable.sln
 Dockerfile
 docker-compose.yml
 
-# Derleme çıktılarını gizle
 bin/
 obj/
